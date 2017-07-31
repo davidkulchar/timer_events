@@ -1,0 +1,9 @@
+D:\CC Projects\C#\TimerEvents\TimerEvents\bin\Debug\TimerEvents.exe.config
+D:\CC Projects\C#\TimerEvents\TimerEvents\bin\Debug\TimerEvents.exe
+D:\CC Projects\C#\TimerEvents\TimerEvents\bin\Debug\TimerEvents.pdb
+D:\CC Projects\C#\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csprojResolveAssemblyReference.cache
+D:\CC Projects\C#\TimerEvents\TimerEvents\obj\Debug\TimerEvents.Form1.resources
+D:\CC Projects\C#\TimerEvents\TimerEvents\obj\Debug\TimerEvents.Properties.Resources.resources
+D:\CC Projects\C#\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csproj.GenerateResource.Cache
+D:\CC Projects\C#\TimerEvents\TimerEvents\obj\Debug\TimerEvents.exe
+D:\CC Projects\C#\TimerEvents\TimerEvents\obj\Debug\TimerEvents.pdb
